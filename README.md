@@ -10,9 +10,10 @@ Cuando trabajamos con flexbox necesitamos pensar en términos de dos ejes — el
 El eje principal está definido por flex-direction, que posee cuatro posibles valores:
 
 <li>row</li>
-row-reverse
-column
-column-reverse
+<li>row-reverse</li>
+<li>column</li>
+<li>column-reverse</li>
+
 Si elegimos row o row-reverse, el eje principal correrá a lo largo de la fila según la dirección de la línea .
 
 # JAVASCRIPT Y SUS USOS
