@@ -9,7 +9,7 @@ Cuando trabajamos con flexbox necesitamos pensar en términos de dos ejes — el
 ## El eje principal:
 El eje principal está definido por flex-direction, que posee cuatro posibles valores:
 
-row
+<li>row</li>
 row-reverse
 column
 column-reverse
